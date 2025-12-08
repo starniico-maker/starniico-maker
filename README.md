@@ -17,16 +17,16 @@ A função do nosso sistema é disponibilizar conteúdos de estudo, como resumos
 2. Após o cadastro, pode fazer login normalmente.
 
 ### Menu Fixo
-Depois do cadastro, todas as telas possuem o menu fixo no lado esquerdo da tela.
-O menu redireciona para as outras telas de acordo com o clique, e possui as seguintes telas:
-• Tela de Início
-• Pontuações
-• Assinaturas
-• Provão Paulista (Matérias e Materiais)
-• USP (informações e cursos)
-• UNESP (informações e cursos)
-• UNICAMP (informações e cursos)
-• FATEC (informações e cursos)
+Depois do cadastro, todas as telas possuem o menu fixo no lado esquerdo da tela.  
+O menu redireciona para as outras telas de acordo com o clique, e possui as seguintes telas:  
+• Tela de Início  
+• Pontuações  
+• Assinaturas  
+• Provão Paulista (Matérias e Materiais)  
+• USP (informações e cursos)  
+• UNESP (informações e cursos)  
+• UNICAMP (informações e cursos)  
+• FATEC (informações e cursos)  
 
 ### Tela Inicial
 1. Possui uma mensagem de boas vindas para o usuário.
@@ -38,9 +38,9 @@ O menu redireciona para as outras telas de acordo com o clique, e possui as segu
 • Tela de Cursos: descrição rápida dos cursos que possuem mais demanda na universidade
 
 ### Assinaturas
-1. Nesta tela, o usuário pode escolher entre:
-Plano Gratuito: acesso gratuito aos materiais por 6 meses, navegação livre.
-Plano Pago: funções do plano gratuito, mas com acesso a todos os materiais de estudo por tempo ilimitado
+1. Nesta tela, o usuário pode escolher entre:  
+Plano Gratuito: acesso gratuito aos materiais por 6 meses, navegação livre.  
+Plano Pago: funções do plano gratuito, mas com acesso a todos os materiais de estudo por tempo ilimitado  
 2. O usuário pode ver as diferenças entre os planos e selecionar aquele que desejar.
 
 ### Matérias
